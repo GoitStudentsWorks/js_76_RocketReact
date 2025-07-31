@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/x-team-booksy/",
+    "build": "vite build --base=/js_76_RocketReact/",
     "preview": "vite preview",
     "deploy": "gh-pages -d dist"
   },
